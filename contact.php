@@ -4,7 +4,7 @@
 
 		// EDIT THE 2 LINES BELOW AS REQUIRED
 		$email_to = "ted+rezbet@irez.cc";
-		$email_subject = "My offer for [Your Domain]";
+		$email_subject = "My offer for rez.bet";
 
 
 		$name = $_POST['name']; // required
@@ -38,7 +38,7 @@
 <html lang="en">
 		<head>
 				<meta charset="utf-8">
-				<title>Sales Inquery || [Your Domain]</title>
+				<title>Sales Inquery || Rez.Bet</title>
 				<meta name="viewport" content="width=device-width, initial-scale=1.0">
 				<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
 				<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
@@ -55,28 +55,13 @@
 										<h1 class="pt-4 h2">
 											<span>Thak you for offer, I will contact as soon as possible. Cheers !!!</span>
 										</h1>
-										<div class="row d-md-flex text-center justify-content-center text-primary action-icons">
-											<div class="col-sm-4">
-												<p><em class="ion-ios-telephone-outline icon-md"></em></p>
-												<p class="lead"><a href="tel:+[Your Phone]">+[Your Phone]</a></p>
-											</div>
-											<div class="col-sm-4">
-												<p><em class="ion-ios-chatbubble-outline icon-md"></em></p>
-												<p class="lead"><a href="mailto:hello@example.com">email@[Your Domain].com</a></p>
-											</div>
+										
 									</div>
 								</div>
 							</div>
 							<div class="col-sm-6 offset-sm-6 px-0">
 									<section class="bg-alt">
 											<div class="row height-100">
-													<div class="col-sm-8 offset-sm-2 mt-2">
-														<h1 class="pt-4 h2"><span class="text-green">Saroj K. Poddar</span></h1>
-														<span class="text-muted">Kathmandu, Nepal</span>
-														<p><span>Web Strategist, Front-end Developer & UX/ UI Designer</span></p>
-														<br/>
-														<a target="_blank" rel="nofollow" href="https://sarozpoddar.com.np">sarozpoddar.com.np</a>
-													</div>
 											</div>
 									</section>
 							</div>
